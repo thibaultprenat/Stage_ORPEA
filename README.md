@@ -135,3 +135,24 @@ Ce formulaire récupère les activités du planning en fonction des dates, la li
 que les résidents déjà affectés aux activités. Il est possible de retirer un résident d'une activité
 simplement en cliquant sur le bouton "Supprimer" puis "Assigner".
 ```
+
+# Les fonctionnalités techniques
+
+* **Authentification**
+
+![Environnement Dev](https://raw.githubusercontent.com/BidaultMathis/Stage_ORPEA/master/Images/frmConnexion.PNG)
+
+```
+Afin de sécuriser l'accès au logiciel, une authentification est nécessaire. (Chiffrée)
+```
+
+* **Mises à jour**
+
+![Environnement Dev](https://raw.githubusercontent.com/BidaultMathis/Stage_ORPEA/master/Images/Maj.gif)
+
+```
+Pour permettre une maintenabilité de l'application, j'ai implanté un système de mise à jour
+avec l'outil proposé par VS : ClickOnce (Mode manuel).
+De ce fait, je peux déployer une mise à jour ou un correctif à n'importe quel moment en 
+faisant un déploiement de l'application sur le serveur FTP (+ les màj).
+```
