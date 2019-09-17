@@ -148,7 +148,7 @@ Afin de sécuriser l'accès au logiciel, une authentification est nécessaire. (
 
 * **Mises à jour**
 
-![Environnement Dev](https://raw.githubusercontent.com/BidaultMathis/Stage_ORPEA/master/Images/Maj.gif)
+![Environnement Dev](https://raw.githubusercontent.com/BidaultMathis/Stage_ORPEA/master/Images/Maj2.gif)
 
 ```
 Pour permettre une maintenabilité de l'application, j'ai implanté un système de mise à jour
