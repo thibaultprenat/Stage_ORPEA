@@ -16,7 +16,7 @@ namespace Orpea_WF.Utilisateur
         ///  Fonction principale : Stockage de l'Id utilisateur entré dans la textBox.
         ///  Fonction secondaire : Permet l'affichage de l'utilisateur connecté à l'application.
         /// </summary>
-        public string   IdUtilisateur    { get; set; }
+        public string   IdUtilisateur  { get; set; }
 
         /// <summary>
         ///  Fonction principale : Stockage du mot de passe utilisateur entré dans la textBox.
@@ -30,7 +30,7 @@ namespace Orpea_WF.Utilisateur
         /// <summary>
         ///  Fonction principale : Chaîne de connexion à la base de données réutilisée pour toutes les autres requêtes.
         /// </summary>
-        public const string SqlConnexion = "server=***;Port=3306; userid=***; password=***; database=***";
+        public const string SqlConnexion = "server=mysql-orpeafauriel.alwaysdata.net;Port=3306; userid=180881; password=Rdc3ycww**; database=orpeafauriel_bdd";
 
         /// <summary>
         ///  Fonction principale : Cette méthode prépare la requête, tente de se connecter à la BDD, crée les paramètres puis exécute le return.
