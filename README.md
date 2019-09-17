@@ -117,7 +117,7 @@ Permet d'ajouter une activité au planning (Activité, catégorie, date)
 
 ### Activités
 
-![Environnement Dev](https://raw.githubusercontent.com/BidaultMathis/Stage_ORPEA/master/Images/categActivites.png) ![Environnement Dev](https://raw.githubusercontent.com/BidaultMathis/Stage_ORPEA/master/Images/frmPlanning.PNG)
+![Environnement Dev](https://raw.githubusercontent.com/BidaultMathis/Stage_ORPEA/master/Images/categActivites.png) ![Environnement Dev](https://raw.githubusercontent.com/BidaultMathis/Stage_ORPEA/master/Images/frmPlanning2.PNG)
 
 * **Consulter le planning**
 
